@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Custom Button with Your Design</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        button {
+            background: url('./1x/Artboard 1.png') no-repeat center center; /* Default image path */
+            background-size: contain;
+            border: none;
+            border-radius: 50%; /* Keeps the circular shape */
+            width: 170px; /* Match the size of your design */
+            height: 170px;
+            cursor: pointer;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+        }
+        button:active {
+            transform: scale(0.95);
+            box-shadow: none;
+        }
+
+        @media (min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2) {
+            button {
+                background: url('./2x/Artboard 1@2x.png') no-repeat center center;
+            }
+        }
+
+        @media (min-device-pixel-ratio: 3), (-webkit-min-device-pixel-ratio: 3) {
+            button {
+                background: url('./3x/Artboard 1@3x.png') no-repeat center center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button id="hiddenCounter"></button>
+    <script>
+        let count = 0;
+
+        // Load stored count from local storage (if available)
+        if (localStorage.getItem("hiddenCount")) {
+            count = parseInt(localStorage.getItem("hiddenCount"));
+        }
+
+        // Track button clicks without displaying anything
+        const button = document.getElementById("hiddenCounter");
+        button.addEventListener("click", () => {
+            count += 1;
+            localStorage.setItem("hiddenCount", count);
+
+            // Optional: Log to the console for debugging
+            console.log(`Button pressed. Current count: ${count}`);
+        });
+
+        // Reset count daily at midnight
+        const now = new Date();
+        const millisUntilMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0) - now;
+        setTimeout(() => {
+            count = 0;
+            localStorage.setItem("hiddenCount", count);
+        }, millisUntilMidnight);
+    </script>
+</body>
+</html>
