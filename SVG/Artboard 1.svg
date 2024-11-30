@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 170">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #131b41;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57, .cls-58, .cls-59, .cls-60, .cls-61, .cls-62, .cls-63, .cls-64, .cls-65, .cls-66, .cls-67, .cls-68, .cls-69, .cls-70, .cls-71, .cls-72, .cls-73, .cls-74, .cls-75, .cls-76, .cls-77, .cls-78, .cls-79, .cls-80, .cls-81, .cls-82, .cls-83, .cls-84, .cls-85, .cls-86, .cls-87, .cls-88, .cls-89, .cls-90, .cls-91, .cls-92, .cls-93, .cls-94, .cls-95, .cls-96, .cls-97, .cls-98, .cls-99, .cls-100, .cls-101, .cls-102, .cls-103, .cls-104, .cls-105, .cls-106, .cls-107, .cls-108, .cls-109, .cls-110, .cls-111, .cls-112, .cls-113, .cls-114, .cls-115, .cls-116, .cls-117, .cls-118, .cls-119, .cls-120, .cls-121, .cls-122, .cls-123, .cls-124, .cls-125, .cls-126, .cls-127, .cls-128, .cls-129, .cls-130, .cls-131, .cls-132, .cls-133, .cls-134, .cls-135, .cls-136, .cls-137, .cls-138, .cls-139, .cls-140, .cls-141, .cls-142, .cls-143, .cls-144, .cls-145, .cls-146, .cls-147, .cls-148, .cls-149, .cls-150, .cls-151, .cls-152, .cls-153, .cls-154, .cls-155, .cls-156, .cls-157, .cls-158, .cls-159, .cls-160, .cls-161, .cls-162, .cls-163, .cls-164, .cls-165, .cls-166, .cls-167, .cls-168, .cls-169, .cls-170, .cls-171, .cls-172, .cls-173, .cls-174, .cls-175, .cls-176, .cls-177, .cls-178, .cls-179, .cls-180, .cls-181, .cls-182, .cls-183, .cls-184, .cls-185, .cls-186, .cls-187, .cls-188, .cls-189, .cls-190, .cls-191, .cls-192, .cls-193, .cls-194, .cls-195, .cls-196, .cls-197, .cls-198, .cls-199, .cls-200, .cls-201, .cls-202, .cls-203, .cls-204, .cls-205, .cls-206, .cls-207, .cls-208, .cls-209, .cls-210, .cls-211, .cls-212, .cls-213, .cls-214, .cls-215, .cls-216, .cls-217, .cls-218, .cls-219, .cls-220, .cls-221, .cls-222, .cls-223, .cls-224, .cls-225, .cls-226, .cls-227, .cls-228, .cls-229, .cls-230, .cls-231, .cls-232, .cls-233, .cls-234, .cls-235, .cls-236, .cls-237, .cls-238, .cls-239, .cls-240, .cls-241, .cls-242, .cls-243 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-88, .cls-138 {
+        opacity: .77;
+      }
+
+      .cls-2 {
+        fill: #20274c;
+      }
+
+      .cls-2, .cls-34, .cls-143 {
+        opacity: .73;
+      }
+
+      .cls-3 {
+        fill: #81859a;
+      }
+
+      .cls-3, .cls-31, .cls-40 {
+        opacity: .41;
+      }
+
+      .cls-4 {
+        fill: #85899d;
+      }
+
+      .cls-4, .cls-149, .cls-154, .cls-201 {
+        opacity: .4;
+      }
+
+      .cls-5 {
+        fill: #7d8196;
+      }
+
+      .cls-5, .cls-86, .cls-166 {
+        opacity: .42;
+      }
+
+      .cls-6 {
+        fill: #505672;
+      }
+
+      .cls-6, .cls-92, .cls-140 {
+        opacity: .57;
+      }
+
+      .cls-7 {
+        fill: #3a4061;
+      }
+
+      .cls-7, .cls-10, .cls-121 {
+        opacity: .64;
+      }
+
+      .cls-8 {
+        fill: #1a2147;
+      }
+
+      .cls-8, .cls-47, .cls-203 {
+        opacity: .75;
+      }
+
+      .cls-9 {
+        fill: #c4c6d0;
+      }
+
+      .cls-9, .cls-48, .cls-118 {
+        opacity: .19;
+      }
+
+      .cls-10 {
+        fill: #3b4161;
+      }
+
+      .cls-11 {
+        fill: #a6a9b7;
+      }
+
+      .cls-11, .cls-41, .cls-217 {
+        opacity: .29;
+      }
+
+      .cls-12 {
+        fill: #4d5370;
+      }
+
+      .cls-12, .cls-66, .cls-99 {
+        opacity: .58;
+      }
+
+      .cls-13 {
+        fill: #d7d8df;
+      }
+
+      .cls-13, .cls-104, .cls-130 {
+        opacity: .13;
+      }
+
+      .cls-14 {
+        fill: #6a6f87;
+      }
+
+      .cls-14, .cls-57, .cls-231 {
+        opacity: .49;
+      }
+
+      .cls-15 {
+        fill: #676c85;
+      }
+
+      .cls-15, .cls-70, .cls-196 {
+        opacity: .5;
+      }
+
+      .cls-16 {
+        fill: #111940;
+      }
+
+      .cls-16, .cls-18, .cls-73 {
+        opacity: .78;
+      }
+
+      .cls-17 {
+        fill: #e8e9ed;
+      }
+
+      .cls-17, .cls-68, .cls-206, .cls-242 {
+        opacity: .08;
+      }
+
+      .cls-18 {
+        fill: #0f173e;
+      }
+
+      .cls-19 {
+        fill: #0a123a;
+      }
+
+      .cls-19, .cls-111 {
+        opacity: .8;
+      }
+
+      .cls-20 {
+        fill: #434968;
+      }
+
+      .cls-20, .cls-55, .cls-131 {
+        opacity: .61;
+      }
+
+      .cls-21 {
+        fill: #8b8fa2;
+      }
+
+      .cls-21, .cls-102, .cls-189 {
+        opacity: .38;
+      }
+
+      .cls-244 {
+        fill: #161b30;
+      }
+
+      .cls-22 {
+        fill: #f3f3f5;
+      }
+
+      .cls-22, .cls-132, .cls-174 {
+        opacity: .04;
+      }
+
+      .cls-23 {
+        fill: #b8bac6;
+      }
+
+      .cls-23, .cls-65, .cls-81 {
+        opacity: .23;
+      }
+
+      .cls-24 {
+        fill: #b7b9c5;
+      }
+
+      .cls-24, .cls-26, .cls-155, .cls-192 {
+        opacity: .24;
+      }
+
+      .cls-25 {
+        fill: #535975;
+      }
+
+      .cls-25, .cls-89, .cls-185, .cls-214 {
+        opacity: .56;
+      }
+
+      .cls-26 {
+        fill: #b6b8c4;
+      }
+
+      .cls-27 {
+        fill: #abaebb;
+      }
+
+      .cls-27, .cls-56, .cls-179 {
+        opacity: .27;
+      }
+
+      .cls-245 {
+        fill: rgba(253, 253, 253, 0);
+      }
+
+      .cls-28 {
+        fill: #5b607b;
+      }
+
+      .cls-28, .cls-44, .cls-240 {
+        opacity: .54;
+      }
+
+      .cls-29 {
+        fill: #b3b5c2;
+      }
+
+      .cls-29, .cls-61, .cls-82 {
+        opacity: .25;
+      }
+
+      .cls-30 {
+        fill: #70758c;
+      }
+
+      .cls-30, .cls-135, .cls-230 {
+        opacity: .47;
+      }
+
+      .cls-31 {
+        fill: #82869a;
+      }
+
+      .cls-32 {
+        fill: #5c617c;
+      }
+
+      .cls-32, .cls-36, .cls-177 {
+        opacity: .53;
+      }
+
+      .cls-33 {
+        fill: #272e51;
+      }
+
+      .cls-33, .cls-83, .cls-151 {
+        opacity: .71;
+      }
+
+      .cls-34 {
+        fill: #1f264b;
+      }
+
+      .cls-35 {
+        fill: #ebecef;
+      }
+
+      .cls-35, .cls-45, .cls-129 {
+        opacity: .07;
+      }
+
+      .cls-36 {
+        fill: #5d627d;
+      }
+
+      .cls-37 {
+        fill: #d9dae0;
+      }
+
+      .cls-37, .cls-39, .cls-141 {
+        opacity: .12;
+      }
+
+      .cls-38 {
+        fill: #787c92;
+      }
+
+      .cls-38, .cls-51, .cls-136 {
+        opacity: .44;
+      }
+
+      .cls-39 {
+        fill: #dbdce2;
+      }
+
+      .cls-40 {
+        fill: #808499;
+      }
+
+      .cls-41 {
+        fill: #a5a8b7;
+      }
+
+      .cls-42 {
+        fill: #646982;
+      }
+
+      .cls-42, .cls-93, .cls-159 {
+        opacity: .51;
+      }
+
+      .cls-43 {
+        fill: #60657f;
+      }
+
+      .cls-43, .cls-226, .cls-238 {
+        opacity: .52;
+      }
+
+      .cls-44 {
+        fill: #5a5f7a;
+      }
+
+      .cls-45 {
+        fill: #eaebee;
+      }
+
+      .cls-46 {
+        fill: #eeeff1;
+      }
+
+      .cls-46, .cls-58, .cls-62 {
+        opacity: .06;
+      }
+
+      .cls-47 {
+        fill: #192146;
+      }
+
+      .cls-48 {
+        fill: #c5c7d0;
+      }
+
+      .cls-49 {
+        fill: #888c9f;
+      }
+
+      .cls-49, .cls-190, .cls-221 {
+        opacity: .39;
+      }
+
+      .cls-50 {
+        fill: #999cad;
+      }
+
+      .cls-50, .cls-133, .cls-148 {
+        opacity: .33;
+      }
+
+      .cls-51 {
+        fill: #797d93;
+      }
+
+      .cls-52 {
+        fill: #dddee4;
+      }
+
+      .cls-52, .cls-114, .cls-167 {
+        opacity: .11;
+      }
+
+      .cls-53 {
+        fill: #2f3658;
+      }
+
+      .cls-53, .cls-182, .cls-194 {
+        opacity: .68;
+      }
+
+      .cls-54 {
+        fill: #c9cbd4;
+      }
+
+      .cls-54, .cls-191, .cls-232 {
+        opacity: .18;
+      }
+
+      .cls-55 {
+        fill: #444a69;
+      }
+
+      .cls-56 {
+        fill: #adb0bd;
+      }
+
+      .cls-57 {
+        fill: #696e86;
+      }
+
+      .cls-58 {
+        fill: #ecedf0;
+      }
+
+      .cls-59 {
+        fill: #caccd4;
+      }
+
+      .cls-59, .cls-109, .cls-209 {
+        opacity: .17;
+      }
+
+      .cls-60 {
+        fill: #21284c;
+      }
+
+      .cls-60, .cls-105, .cls-106, .cls-229 {
+        opacity: .72;
+      }
+
+      .cls-61 {
+        fill: #b1b4c0;
+      }
+
+      .cls-62 {
+        fill: #edeef1;
+      }
+
+      .cls-246 {
+        fill: rgba(255, 255, 255, 0);
+      }
+
+      .cls-63 {
+        fill: #e2e3e8;
+      }
+
+      .cls-63, .cls-208, .cls-241 {
+        opacity: .09;
+      }
+
+      .cls-247 {
+        fill: rgba(252, 252, 253, 0);
+      }
+
+      .cls-64 {
+        fill: #bbbdc8;
+      }
+
+      .cls-64, .cls-170, .cls-204 {
+        opacity: .22;
+      }
+
+      .cls-65 {
+        fill: #b9bbc7;
+      }
+
+      .cls-66 {
+        fill: #4c526f;
+      }
+
+      .cls-67 {
+        fill: #585d79;
+      }
+
+      .cls-67, .cls-122, .cls-210 {
+        opacity: .55;
+      }
+
+      .cls-68 {
+        fill: #e6e7eb;
+      }
+
+      .cls-69 {
+        fill: #464c6a;
+      }
+
+      .cls-69, .cls-165, .cls-197 {
+        opacity: .6;
+      }
+
+      .cls-70 {
+        fill: #656a83;
+      }
+
+      .cls-71 {
+        fill: #0e163d;
+      }
+
+      .cls-71, .cls-84, .cls-176 {
+        opacity: .79;
+      }
+
+      .cls-72 {
+        fill: #343b5c;
+      }
+
+      .cls-72, .cls-87, .cls-124 {
+        opacity: .66;
+      }
+
+      .cls-73 {
+        fill: #10183f;
+      }
+
+      .cls-74 {
+        fill: #e1e2e7;
+      }
+
+      .cls-74, .cls-137, .cls-152 {
+        opacity: .1;
+      }
+
+      .cls-76 {
+        fill: #9397a8;
+      }
+
+      .cls-76, .cls-144, .cls-156 {
+        opacity: .35;
+      }
+
+      .cls-77 {
+        fill: #2d3456;
+      }
+
+      .cls-77, .cls-101, .cls-161 {
+        opacity: .69;
+      }
+
+      .cls-78 {
+        fill: #8e92a4;
+      }
+
+      .cls-78, .cls-142, .cls-200 {
+        opacity: .37;
+      }
+
+      .cls-248 {
+        fill: #141a2d;
+      }
+
+      .cls-79 {
+        fill: #d4d5dc;
+      }
+
+      .cls-79, .cls-115, .cls-223 {
+        opacity: .14;
+      }
+
+      .cls-80 {
+        fill: #7b7f95;
+      }
+
+      .cls-80, .cls-153, .cls-195 {
+        opacity: .43;
+      }
+
+      .cls-81 {
+        fill: #babcc8;
+      }
+
+      .cls-82 {
+        fill: #b2b5c1;
+      }
+
+      .cls-83 {
+        fill: #262d51;
+      }
+
+      .cls-84 {
+        fill: #0c143c;
+      }
+
+      .cls-85 {
+        fill: #c1c3cd;
+      }
+
+      .cls-85, .cls-168, .cls-211 {
+        opacity: .2;
+      }
+
+      .cls-249 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-86 {
+        fill: #7e8297;
+      }
+
+      .cls-87 {
+        fill: #353c5d;
+      }
+
+      .cls-88 {
+        fill: #141c42;
+      }
+
+      .cls-89 {
+        fill: #525874;
+      }
+
+      .cls-90 {
+        fill: #3f4565;
+      }
+
+      .cls-90, .cls-160, .cls-218 {
+        opacity: .63;
+      }
+
+      .cls-91 {
+        fill: #a1a4b3;
+      }
+
+      .cls-91, .cls-127, .cls-146 {
+        opacity: .31;
+      }
+
+      .cls-92 {
+        fill: #515773;
+      }
+
+      .cls-93 {
+        fill: #626781;
+      }
+
+      .cls-94 {
+        fill: #32395a;
+      }
+
+      .cls-94, .cls-113, .cls-162 {
+        opacity: .67;
+      }
+
+      .cls-95 {
+        fill: #f7f7f9;
+      }
+
+      .cls-95, .cls-107, .cls-219 {
+        opacity: .03;
+      }
+
+      .cls-96 {
+        fill: #a2a5b4;
+      }
+
+      .cls-96, .cls-184, .cls-207 {
+        opacity: .3;
+      }
+
+      .cls-97 {
+        fill: #fafafb;
+      }
+
+      .cls-97, .cls-147, .cls-237 {
+        opacity: .02;
+      }
+
+      .cls-98 {
+        fill: #f0f0f3;
+      }
+
+      .cls-98, .cls-235, .cls-243 {
+        opacity: .05;
+      }
+
+      .cls-99 {
+        fill: #4e5471;
+      }
+
+      .cls-100 {
+        fill: #d0d2d9;
+      }
+
+      .cls-100, .cls-139, .cls-172 {
+        opacity: .15;
+      }
+
+      .cls-101 {
+        fill: #2c3355;
+      }
+
+      .cls-102 {
+        fill: #8a8ea1;
+      }
+
+      .cls-103 {
+        fill: #171f44;
+      }
+
+      .cls-103, .cls-187, .cls-198 {
+        opacity: .76;
+      }
+
+      .cls-104 {
+        fill: #d8d9e0;
+      }
+
+      .cls-105 {
+        fill: #22294d;
+      }
+
+      .cls-106 {
+        fill: #242b4f;
+      }
+
+      .cls-107 {
+        fill: #f6f6f8;
+      }
+
+      .cls-108 {
+        fill: #989bac;
+      }
+
+      .cls-108, .cls-164, .cls-169 {
+        opacity: .34;
+      }
+
+      .cls-109 {
+        fill: #ccced6;
+      }
+
+      .cls-110 {
+        fill: #767a91;
+      }
+
+      .cls-110, .cls-157, .cls-171 {
+        opacity: .45;
+      }
+
+      .cls-111 {
+        fill: #0b133b;
+      }
+
+      .cls-112 {
+        fill: #1b2248;
+      }
+
+      .cls-112, .cls-188, .cls-205 {
+        opacity: .74;
+      }
+
+      .cls-250 {
+        fill: #fff;
+      }
+
+      .cls-113 {
+        fill: #313859;
+      }
+
+      .cls-114 {
+        fill: #dedfe4;
+      }
+
+      .cls-115 {
+        fill: #d5d6dd;
+      }
+
+      .cls-116 {
+        fill: #383e5f;
+      }
+
+      .cls-116, .cls-178, .cls-216 {
+        opacity: .65;
+      }
+
+      .cls-117 {
+        fill: #414766;
+      }
+
+      .cls-117, .cls-126, .cls-222 {
+        opacity: .62;
+      }
+
+      .cls-118 {
+        fill: #c6c8d1;
+      }
+
+      .cls-119 {
+        fill: #b0b3bf;
+      }
+
+      .cls-119, .cls-163, .cls-202 {
+        opacity: .26;
+      }
+
+      .cls-120 {
+        fill: #9ea1b1;
+      }
+
+      .cls-120, .cls-213, .cls-228 {
+        opacity: .32;
+      }
+
+      .cls-121 {
+        fill: #3c4262;
+      }
+
+      .cls-122 {
+        fill: #575c78;
+      }
+
+      .cls-123 {
+        fill: #a9acba;
+      }
+
+      .cls-123, .cls-212, .cls-233 {
+        opacity: .28;
+      }
+
+      .cls-124 {
+        fill: #363d5d;
+      }
+
+      .cls-125 {
+        fill: #282f52;
+      }
+
+      .cls-125, .cls-181, .cls-215 {
+        opacity: .7;
+      }
+
+      .cls-126 {
+        fill: #404665;
+      }
+
+      .cls-127 {
+        fill: #a0a3b3;
+      }
+
+      .cls-128 {
+        fill: #cfd1d8;
+      }
+
+      .cls-128, .cls-183, .cls-186 {
+        opacity: .16;
+      }
+
+      .cls-129 {
+        fill: #e9eaed;
+      }
+
+      .cls-130 {
+        fill: #d6d7de;
+      }
+
+      .cls-131 {
+        fill: #454b69;
+      }
+
+      .cls-132 {
+        fill: #f2f2f5;
+      }
+
+      .cls-133 {
+        fill: #9b9eaf;
+      }
+
+      .cls-134 {
+        fill: #9296a7;
+      }
+
+      .cls-134, .cls-225, .cls-227 {
+        opacity: .36;
+      }
+
+      .cls-135 {
+        fill: #6e738a;
+      }
+
+      .cls-136 {
+        fill: #777b92;
+      }
+
+      .cls-137 {
+        fill: #e0e1e6;
+      }
+
+      .cls-138 {
+        fill: #121a40;
+      }
+
+      .cls-139 {
+        fill: #d1d3da;
+      }
+
+      .cls-140 {
+        fill: #4f5571;
+      }
+
+      .cls-141 {
+        fill: #dadbe1;
+      }
+
+      .cls-142 {
+        fill: #8d91a3;
+      }
+
+      .cls-143 {
+        fill: #1e254a;
+      }
+
+      .cls-144 {
+        fill: #9497a9;
+      }
+
+      .cls-145 {
+        fill: #4b516e;
+      }
+
+      .cls-145, .cls-199, .cls-220 {
+        opacity: .59;
+      }
+
+      .cls-146 {
+        fill: #9fa2b2;
+      }
+
+      .cls-147 {
+        fill: #f8f8f9;
+      }
+
+      .cls-148 {
+        fill: #9a9dae;
+      }
+
+      .cls-149 {
+        fill: #83879b;
+      }
+
+      .cls-150 {
+        fill: #72778e;
+      }
+
+      .cls-150, .cls-158, .cls-173 {
+        opacity: .46;
+      }
+
+      .cls-151 {
+        fill: #252c50;
+      }
+
+      .cls-152 {
+        fill: #dfe0e5;
+      }
+
+      .cls-153 {
+        fill: #7a7e94;
+      }
+
+      .cls-154 {
+        fill: #84889c;
+      }
+
+      .cls-155 {
+        fill: #b5b7c3;
+      }
+
+      .cls-156 {
+        fill: #9598aa;
+      }
+
+      .cls-157 {
+        fill: #74798f;
+      }
+
+      .cls-158 {
+        fill: #73788e;
+      }
+
+      .cls-159 {
+        fill: #636882;
+      }
+
+      .cls-160 {
+        fill: #3d4363;
+      }
+
+      .cls-161 {
+        fill: #2b3255;
+      }
+
+      .cls-162 {
+        fill: #333a5b;
+      }
+
+      .cls-163 {
+        fill: #aeb1be;
+      }
+
+      .cls-164 {
+        fill: #979aab;
+      }
+
+      .cls-165 {
+        fill: #484e6c;
+      }
+
+      .cls-166 {
+        fill: #7f8398;
+      }
+
+      .cls-167 {
+        fill: #dcdde3;
+      }
+
+      .cls-168 {
+        fill: #c3c5cf;
+      }
+
+      .cls-169 {
+        fill: #9699ab;
+      }
+
+      .cls-170 {
+        fill: #bcbec9;
+      }
+
+      .cls-171 {
+        fill: #757a90;
+      }
+
+      .cls-172 {
+        fill: #d2d3db;
+      }
+
+      .cls-173 {
+        fill: #71768d;
+      }
+
+      .cls-174 {
+        fill: #f4f4f6;
+      }
+
+      .cls-175 {
+        fill: #6c7189;
+      }
+
+      .cls-175, .cls-224, .cls-234 {
+        opacity: .48;
+      }
+
+      .cls-176 {
+        fill: #0d153c;
+      }
+
+      .cls-177 {
+        fill: #5e637e;
+      }
+
+      .cls-178 {
+        fill: #393f60;
+      }
+
+      .cls-179 {
+        fill: #acafbc;
+      }
+
+      .cls-180 {
+        fill: #bec0cb;
+      }
+
+      .cls-180, .cls-236, .cls-239 {
+        opacity: .21;
+      }
+
+      .cls-181 {
+        fill: #293053;
+      }
+
+      .cls-182 {
+        fill: #2e3557;
+      }
+
+      .cls-183 {
+        fill: #ced0d8;
+      }
+
+      .cls-184 {
+        fill: #a3a6b5;
+      }
+
+      .cls-185 {
+        fill: #555b76;
+      }
+
+      .cls-186 {
+        fill: #cdcfd7;
+      }
+
+      .cls-187 {
+        fill: #151d43;
+      }
+
+      .cls-188 {
+        fill: #1c2348;
+      }
+
+      .cls-189 {
+        fill: #8c90a3;
+      }
+
+      .cls-190 {
+        fill: #898da0;
+      }
+
+      .cls-191 {
+        fill: #c8cad3;
+      }
+
+      .cls-192 {
+        fill: #b4b6c3;
+      }
+
+      .cls-193 {
+        fill: #fbfbfc;
+        opacity: 0;
+      }
+
+      .cls-194 {
+        fill: #303759;
+      }
+
+      .cls-195 {
+        fill: #7c8096;
+      }
+
+      .cls-196 {
+        fill: #666b84;
+      }
+
+      .cls-197 {
+        fill: #474d6b;
+      }
+
+      .cls-198 {
+        fill: #161e44;
+      }
+
+      .cls-199 {
+        fill: #4a506d;
+      }
+
+      .cls-200 {
+        fill: #8f93a5;
+      }
+
+      .cls-201 {
+        fill: #868a9e;
+      }
+
+      .cls-202 {
+        fill: #afb2bf;
+      }
+
+      .cls-203 {
+        fill: #182045;
+      }
+
+      .cls-204 {
+        fill: #bdbfca;
+      }
+
+      .cls-205 {
+        fill: #1d2449;
+      }
+
+      .cls-206 {
+        fill: #e5e6ea;
+      }
+
+      .cls-207 {
+        fill: #a4a7b6;
+      }
+
+      .cls-208 {
+        fill: #e3e4e8;
+      }
+
+      .cls-251 {
+        fill: rgba(254, 254, 254, 0);
+      }
+
+      .cls-209 {
+        fill: #cbcdd5;
+      }
+
+      .cls-210 {
+        fill: #565c77;
+      }
+
+      .cls-211 {
+        fill: #c2c4ce;
+      }
+
+      .cls-212 {
+        fill: #aaadbb;
+      }
+
+      .cls-213 {
+        fill: #9c9faf;
+      }
+
+      .cls-214 {
+        fill: #545a76;
+      }
+
+      .cls-215 {
+        fill: #2a3154;
+      }
+
+      .cls-216 {
+        fill: #373e5e;
+      }
+
+      .cls-217 {
+        fill: #a7aab8;
+      }
+
+      .cls-218 {
+        fill: #3e4464;
+      }
+
+      .cls-219 {
+        fill: #f5f5f7;
+      }
+
+      .cls-220 {
+        fill: #494f6d;
+      }
+
+      .cls-221 {
+        fill: #878b9f;
+      }
+
+      .cls-222 {
+        fill: #424867;
+      }
+
+      .cls-223 {
+        fill: #d3d4dc;
+      }
+
+      .cls-224 {
+        fill: #6b7088;
+      }
+
+      .cls-225 {
+        fill: #9195a7;
+      }
+
+      .cls-226 {
+        fill: #5f647e;
+      }
+
+      .cls-227 {
+        fill: #9094a6;
+      }
+
+      .cls-228 {
+        fill: #9da0b0;
+      }
+
+      .cls-229 {
+        fill: #232a4e;
+      }
+
+      .cls-230 {
+        fill: #6f748b;
+      }
+
+      .cls-231 {
+        fill: #686d86;
+      }
+
+      .cls-232 {
+        fill: #c7c9d2;
+      }
+
+      .cls-233 {
+        fill: #a8abb9;
+      }
+
+      .cls-234 {
+        fill: #6d728a;
+      }
+
+      .cls-235 {
+        fill: #eff0f2;
+      }
+
+      .cls-236 {
+        fill: #bfc1cc;
+      }
+
+      .cls-237 {
+        fill: #f9f9fa;
+      }
+
+      .cls-238 {
+        fill: #616680;
+      }
+
+      .cls-239 {
+        fill: #c0c2cc;
+      }
+
+      .cls-240 {
+        fill: #595e7a;
+      }
+
+      .cls-241 {
+        fill: #e4e5e9;
+      }
+
+      .cls-242 {
+        fill: #e7e8ec;
+      }
+
+      .cls-243 {
+        fill: #f1f1f4;
+      }
+    </style>
+  </defs>
+  <g class="cls-75">
+    <g id="Layer_1" data-name="Layer 1">
+      <polygon class="cls-248" points="169.65 169.85 -.35 -.15 169.65 169.85 169.65 169.85"/>
+      <g>
+        <g class="cls-249">
+          <circle class="cls-246" cx="84.65" cy="86.22" r="85"/>
+          <circle class="cls-251" cx="84.65" cy="86.22" r="84.85"/>
+          <circle class="cls-245" cx="84.65" cy="86.23" r="84.7"/>
+          <circle class="cls-247" cx="84.65" cy="86.24" r="84.55"/>
+          <circle class="cls-193" cx="84.65" cy="86.25" r="84.39"/>
+          <circle class="cls-97" cx="84.65" cy="86.25" r="84.24" transform="translate(-36.2 85.12) rotate(-45)"/>
+          <circle class="cls-237" cx="84.65" cy="86.26" r="84.09"/>
+          <circle class="cls-147" cx="84.65" cy="86.27" r="83.94"/>
+          <circle class="cls-95" cx="84.65" cy="86.28" r="83.79"/>
+          <circle class="cls-107" cx="84.65" cy="86.28" r="83.64"/>
+          <circle class="cls-219" cx="84.65" cy="86.29" r="83.48" transform="translate(-36.23 85.13) rotate(-45)"/>
+          <circle class="cls-174" cx="84.65" cy="86.3" r="83.33"/>
+          <circle class="cls-22" cx="84.65" cy="86.31" r="83.18"/>
+          <circle class="cls-132" cx="84.65" cy="86.32" r="83.03"/>
+          <circle class="cls-243" cx="84.65" cy="86.32" r="82.88"/>
+          <circle class="cls-98" cx="84.65" cy="86.33" r="82.73"/>
+          <circle class="cls-235" cx="84.65" cy="86.34" r="82.57"/>
+          <circle class="cls-46" cx="84.65" cy="86.35" r="82.42" transform="translate(-36.26 85.14) rotate(-45)"/>
+          <circle class="cls-62" cx="84.65" cy="86.35" r="82.27" transform="translate(-36.27 85.15) rotate(-45)"/>
+          <circle class="cls-58" cx="84.65" cy="86.36" r="82.12"/>
+          <circle class="cls-35" cx="84.65" cy="86.37" r="81.97"/>
+          <circle class="cls-45" cx="84.65" cy="86.38" r="81.82"/>
+          <circle class="cls-129" cx="84.65" cy="86.38" r="81.66"/>
+          <circle class="cls-17" cx="84.65" cy="86.39" r="81.51"/>
+          <circle class="cls-242" cx="84.65" cy="86.4" r="81.36"/>
+          <circle class="cls-68" cx="84.65" cy="86.41" r="81.21" transform="translate(-36.31 85.16) rotate(-45)"/>
+          <circle class="cls-206" cx="84.65" cy="86.41" r="81.06" transform="translate(-36.31 85.16) rotate(-45)"/>
+          <circle class="cls-241" cx="84.65" cy="86.42" r="80.9"/>
+          <circle class="cls-208" cx="84.65" cy="86.43" r="80.75"/>
+          <circle class="cls-63" cx="84.65" cy="86.44" r="80.6"/>
+          <circle class="cls-74" cx="84.65" cy="86.44" r="80.45"/>
+          <circle class="cls-137" cx="84.65" cy="86.45" r="80.3"/>
+          <circle class="cls-152" cx="84.65" cy="86.46" r="80.15"/>
+          <circle class="cls-114" cx="84.65" cy="86.47" r="79.99" transform="translate(-36.35 85.18) rotate(-45)"/>
+          <circle class="cls-52" cx="84.65" cy="86.48" r="79.84" transform="translate(-36.35 85.18) rotate(-45)"/>
+          <circle class="cls-167" cx="84.65" cy="86.48" r="79.69"/>
+          <circle class="cls-39" cx="84.65" cy="86.49" r="79.54"/>
+          <circle class="cls-141" cx="84.65" cy="86.5" r="79.39"/>
+          <circle class="cls-37" cx="84.65" cy="86.51" r="79.24"/>
+          <circle class="cls-104" cx="84.65" cy="86.51" r="79.08"/>
+          <circle class="cls-13" cx="84.65" cy="86.52" r="78.93"/>
+          <circle class="cls-130" cx="84.65" cy="86.53" r="78.78" transform="translate(-36.39 85.2) rotate(-45)"/>
+          <circle class="cls-115" cx="84.65" cy="86.54" r="78.63" transform="translate(-36.4 85.2) rotate(-45)"/>
+          <circle class="cls-79" cx="84.65" cy="86.54" r="78.48"/>
+          <circle class="cls-223" cx="84.65" cy="86.55" r="78.33"/>
+          <circle class="cls-172" cx="84.65" cy="86.56" r="78.17"/>
+          <circle class="cls-139" cx="84.65" cy="86.57" r="78.02"/>
+          <circle class="cls-100" cx="84.65" cy="86.58" r="77.87"/>
+          <circle class="cls-128" cx="84.65" cy="86.58" r="77.72"/>
+          <circle class="cls-183" cx="84.65" cy="86.59" r="77.57" transform="translate(-36.44 85.21) rotate(-45)"/>
+          <circle class="cls-186" cx="84.65" cy="86.6" r="77.42"/>
+          <circle class="cls-109" cx="84.65" cy="86.61" r="77.27"/>
+          <circle class="cls-209" cx="84.65" cy="86.61" r="77.11"/>
+          <circle class="cls-59" cx="84.65" cy="86.62" r="76.96"/>
+          <circle class="cls-54" cx="84.65" cy="86.63" r="76.81"/>
+          <circle class="cls-191" cx="84.65" cy="86.64" r="76.66"/>
+          <circle class="cls-232" cx="84.65" cy="86.64" r="76.51" transform="translate(-36.47 85.23) rotate(-45)"/>
+          <circle class="cls-118" cx="84.65" cy="86.65" r="76.36" transform="translate(-36.48 85.23) rotate(-45)"/>
+          <circle class="cls-48" cx="84.65" cy="86.66" r="76.2"/>
+          <circle class="cls-9" cx="84.65" cy="86.67" r="76.05"/>
+          <circle class="cls-168" cx="84.65" cy="86.67" r="75.9"/>
+          <circle class="cls-211" cx="84.65" cy="86.68" r="75.75"/>
+          <circle class="cls-85" cx="84.65" cy="86.69" r="75.6"/>
+          <circle class="cls-239" cx="84.65" cy="86.7" r="75.45"/>
+          <circle class="cls-236" cx="84.65" cy="86.7" r="75.29" transform="translate(-36.52 85.25) rotate(-45)"/>
+          <circle class="cls-180" cx="84.65" cy="86.71" r="75.14"/>
+          <circle class="cls-204" cx="84.65" cy="86.72" r="74.99"/>
+          <circle class="cls-170" cx="84.65" cy="86.73" r="74.84"/>
+          <circle class="cls-64" cx="84.65" cy="86.74" r="74.69"/>
+          <circle class="cls-81" cx="84.65" cy="86.74" r="74.54" transform="translate(-36.54 85.26) rotate(-45)"/>
+          <circle class="cls-65" cx="84.65" cy="86.75" r="74.38"/>
+          <circle class="cls-23" cx="84.65" cy="86.76" r="74.23"/>
+          <circle class="cls-24" cx="84.65" cy="86.77" r="74.08" transform="translate(-36.56 85.27) rotate(-45)"/>
+          <circle class="cls-26" cx="84.65" cy="86.77" r="73.93"/>
+          <circle class="cls-155" cx="84.65" cy="86.78" r="73.78"/>
+          <circle class="cls-192" cx="84.65" cy="86.79" r="73.63"/>
+          <circle class="cls-29" cx="84.65" cy="86.8" r="73.47"/>
+          <circle class="cls-82" cx="84.65" cy="86.8" r="73.32" transform="translate(-36.59 85.28) rotate(-45)"/>
+          <circle class="cls-61" cx="84.65" cy="86.81" r="73.17"/>
+          <circle class="cls-119" cx="84.65" cy="86.82" r="73.02"/>
+          <circle class="cls-202" cx="84.65" cy="86.83" r="72.87"/>
+          <circle class="cls-163" cx="84.65" cy="86.83" r="72.71"/>
+          <circle class="cls-56" cx="84.65" cy="86.84" r="72.56"/>
+          <circle class="cls-179" cx="84.65" cy="86.85" r="72.41"/>
+          <circle class="cls-27" cx="84.65" cy="86.86" r="72.26" transform="translate(-36.63 85.29) rotate(-45)"/>
+          <circle class="cls-212" cx="84.65" cy="86.87" r="72.11" transform="translate(-36.63 85.3) rotate(-45)"/>
+          <circle class="cls-123" cx="84.65" cy="86.87" r="71.96"/>
+          <circle class="cls-233" cx="84.65" cy="86.88" r="71.8"/>
+          <circle class="cls-217" cx="84.65" cy="86.89" r="71.65"/>
+          <circle class="cls-11" cx="84.65" cy="86.89" r="71.5"/>
+          <circle class="cls-41" cx="84.65" cy="86.9" r="71.35"/>
+          <circle class="cls-207" cx="84.65" cy="86.91" r="71.2"/>
+          <circle class="cls-184" cx="84.65" cy="86.92" r="71.05" transform="translate(-36.67 85.31) rotate(-45)"/>
+          <circle class="cls-96" cx="84.65" cy="86.93" r="70.89" transform="translate(-36.67 85.31) rotate(-45)"/>
+          <circle class="cls-91" cx="84.65" cy="86.93" r="70.74"/>
+          <circle class="cls-127" cx="84.65" cy="86.94" r="70.59"/>
+          <circle class="cls-146" cx="84.65" cy="86.95" r="70.44"/>
+          <circle class="cls-120" cx="84.65" cy="86.96" r="70.29"/>
+          <circle class="cls-228" cx="84.65" cy="86.96" r="70.14"/>
+          <circle class="cls-213" cx="84.65" cy="86.97" r="69.98"/>
+          <circle class="cls-133" cx="84.65" cy="86.98" r="69.83" transform="translate(-36.71 85.33) rotate(-45)"/>
+          <circle class="cls-148" cx="84.65" cy="86.99" r="69.68"/>
+          <circle class="cls-50" cx="84.65" cy="86.99" r="69.53"/>
+          <circle class="cls-108" cx="84.65" cy="87" r="69.38"/>
+          <circle class="cls-164" cx="84.65" cy="87.01" r="69.23"/>
+          <circle class="cls-169" cx="84.65" cy="87.02" r="69.08"/>
+          <circle class="cls-156" cx="84.65" cy="87.03" r="68.92"/>
+          <circle class="cls-144" cx="84.65" cy="87.03" r="68.77" transform="translate(-36.75 85.35) rotate(-45)"/>
+          <circle class="cls-76" cx="84.65" cy="87.04" r="68.62" transform="translate(-36.76 85.35) rotate(-45)"/>
+          <circle class="cls-134" cx="84.65" cy="87.05" r="68.47"/>
+          <circle class="cls-225" cx="84.65" cy="87.06" r="68.32"/>
+          <circle class="cls-227" cx="84.65" cy="87.06" r="68.17"/>
+          <circle class="cls-200" cx="84.65" cy="87.07" r="68.01"/>
+          <circle class="cls-78" cx="84.65" cy="87.08" r="67.86"/>
+          <circle class="cls-142" cx="84.65" cy="87.09" r="67.71"/>
+          <circle class="cls-189" cx="84.65" cy="87.09" r="67.56" transform="translate(-36.79 85.36) rotate(-45)"/>
+          <circle class="cls-21" cx="84.65" cy="87.1" r="67.41" transform="translate(-36.8 85.37) rotate(-45)"/>
+          <circle class="cls-102" cx="84.65" cy="87.11" r="67.26"/>
+          <circle class="cls-190" cx="84.65" cy="87.12" r="67.1"/>
+          <circle class="cls-49" cx="84.65" cy="87.12" r="66.95"/>
+          <circle class="cls-221" cx="84.65" cy="87.13" r="66.8"/>
+          <circle class="cls-201" cx="84.65" cy="87.14" r="66.65"/>
+          <circle class="cls-4" cx="84.65" cy="87.15" r="66.5"/>
+          <circle class="cls-154" cx="84.65" cy="87.16" r="66.35" transform="translate(-36.84 85.38) rotate(-45)"/>
+          <circle class="cls-149" cx="84.65" cy="87.16" r="66.19" transform="translate(-36.84 85.38) rotate(-45)"/>
+          <circle class="cls-31" cx="84.65" cy="87.17" r="66.04"/>
+          <circle class="cls-3" cx="84.65" cy="87.18" r="65.89"/>
+          <circle class="cls-40" cx="84.65" cy="87.19" r="65.74"/>
+          <circle class="cls-166" cx="84.65" cy="87.19" r="65.59" transform="translate(-36.86 85.39) rotate(-45)"/>
+          <circle class="cls-86" cx="84.65" cy="87.2" r="65.43"/>
+          <circle class="cls-5" cx="84.65" cy="87.21" r="65.28"/>
+          <circle class="cls-195" cx="84.65" cy="87.22" r="65.13" transform="translate(-36.88 85.4) rotate(-45)"/>
+          <circle class="cls-80" cx="84.65" cy="87.22" r="64.98"/>
+          <circle class="cls-153" cx="84.65" cy="87.23" r="64.83"/>
+          <circle class="cls-51" cx="84.65" cy="87.24" r="64.68"/>
+          <circle class="cls-38" cx="84.65" cy="87.25" r="64.52"/>
+          <circle class="cls-136" cx="84.65" cy="87.25" r="64.37" transform="translate(-36.91 85.41) rotate(-45)"/>
+          <circle class="cls-110" cx="84.65" cy="87.26" r="64.22"/>
+          <circle class="cls-171" cx="84.65" cy="87.27" r="64.07"/>
+          <circle class="cls-157" cx="84.65" cy="87.28" r="63.92" transform="translate(-36.92 85.42) rotate(-45)"/>
+          <circle class="cls-158" cx="84.65" cy="87.28" r="63.77"/>
+          <circle class="cls-150" cx="84.65" cy="87.29" r="63.61"/>
+          <circle class="cls-173" cx="84.65" cy="87.3" r="63.46"/>
+          <circle class="cls-30" cx="84.65" cy="87.31" r="63.31" transform="translate(-36.94 85.43) rotate(-45)"/>
+          <circle class="cls-230" cx="84.65" cy="87.32" r="63.16" transform="translate(-36.95 85.43) rotate(-45)"/>
+          <circle class="cls-135" cx="84.65" cy="87.32" r="63.01"/>
+          <circle class="cls-234" cx="84.65" cy="87.33" r="62.86"/>
+          <circle class="cls-175" cx="84.65" cy="87.34" r="62.7"/>
+          <circle class="cls-224" cx="84.65" cy="87.35" r="62.55"/>
+          <circle class="cls-14" cx="84.65" cy="87.35" r="62.4"/>
+          <circle class="cls-57" cx="84.65" cy="87.36" r="62.25"/>
+          <circle class="cls-231" cx="84.65" cy="87.37" r="62.1" transform="translate(-36.99 85.44) rotate(-45)"/>
+          <circle class="cls-15" cx="84.65" cy="87.38" r="61.95"/>
+          <circle class="cls-196" cx="84.65" cy="87.38" r="61.79"/>
+          <circle class="cls-70" cx="84.65" cy="87.39" r="61.64"/>
+          <circle class="cls-42" cx="84.65" cy="87.4" r="61.49"/>
+          <circle class="cls-159" cx="84.65" cy="87.41" r="61.34"/>
+          <circle class="cls-93" cx="84.65" cy="87.41" r="61.19"/>
+          <circle class="cls-238" cx="84.65" cy="87.42" r="61.04"/>
+          <circle class="cls-43" cx="84.65" cy="87.43" r="60.89" transform="translate(-37.03 85.46) rotate(-45)"/>
+          <circle class="cls-226" cx="84.65" cy="87.44" r="60.73"/>
+          <circle class="cls-177" cx="84.65" cy="87.45" r="60.58"/>
+          <circle class="cls-36" cx="84.65" cy="87.45" r="60.43"/>
+          <circle class="cls-32" cx="84.65" cy="87.46" r="60.28"/>
+          <circle class="cls-28" cx="84.65" cy="87.47" r="60.13"/>
+          <circle class="cls-44" cx="84.65" cy="87.48" r="59.98"/>
+          <circle class="cls-240" cx="84.65" cy="87.48" r="59.82" transform="translate(-37.07 85.48) rotate(-45)"/>
+          <circle class="cls-67" cx="84.65" cy="87.49" r="59.67" transform="translate(-37.07 85.48) rotate(-45)"/>
+          <circle class="cls-122" cx="84.65" cy="87.5" r="59.52"/>
+          <circle class="cls-210" cx="84.65" cy="87.51" r="59.37"/>
+          <circle class="cls-185" cx="84.65" cy="87.51" r="59.22"/>
+          <circle class="cls-214" cx="84.65" cy="87.52" r="59.07"/>
+          <circle class="cls-25" cx="84.65" cy="87.53" r="58.91"/>
+          <circle class="cls-89" cx="84.65" cy="87.54" r="58.76"/>
+          <circle class="cls-92" cx="84.65" cy="87.54" r="58.61" transform="translate(-37.11 85.49) rotate(-45)"/>
+          <circle class="cls-6" cx="84.65" cy="87.55" r="58.46" transform="translate(-37.12 85.5) rotate(-45)"/>
+          <circle class="cls-140" cx="84.65" cy="87.56" r="58.31"/>
+          <circle class="cls-99" cx="84.65" cy="87.57" r="58.16"/>
+          <circle class="cls-12" cx="84.65" cy="87.57" r="58"/>
+          <circle class="cls-66" cx="84.65" cy="87.58" r="57.85"/>
+          <circle class="cls-145" cx="84.65" cy="87.59" r="57.7"/>
+          <circle class="cls-199" cx="84.65" cy="87.6" r="57.55"/>
+          <circle class="cls-220" cx="84.65" cy="87.61" r="57.4" transform="translate(-37.15 85.51) rotate(-45)"/>
+          <circle class="cls-165" cx="84.65" cy="87.61" r="57.24"/>
+          <circle class="cls-197" cx="84.65" cy="87.62" r="57.09"/>
+          <circle class="cls-69" cx="84.65" cy="87.63" r="56.94"/>
+          <circle class="cls-131" cx="84.65" cy="87.64" r="56.79"/>
+          <circle class="cls-55" cx="84.65" cy="87.64" r="56.64"/>
+          <circle class="cls-20" cx="84.65" cy="87.65" r="56.49"/>
+          <circle class="cls-222" cx="84.65" cy="87.66" r="56.33"/>
+          <circle class="cls-117" cx="84.65" cy="87.67" r="56.18" transform="translate(-37.2 85.53) rotate(-45)"/>
+          <circle class="cls-126" cx="84.65" cy="87.67" r="56.03"/>
+          <circle class="cls-90" cx="84.65" cy="87.68" r="55.88"/>
+          <circle class="cls-218" cx="84.65" cy="87.69" r="55.73"/>
+          <circle class="cls-160" cx="84.65" cy="87.7" r="55.58"/>
+          <circle class="cls-121" cx="84.65" cy="87.7" r="55.42"/>
+          <circle class="cls-10" cx="84.65" cy="87.71" r="55.27"/>
+          <circle class="cls-7" cx="84.65" cy="87.72" r="55.12"/>
+          <circle class="cls-178" cx="84.65" cy="87.73" r="54.97"/>
+          <circle class="cls-116" cx="84.65" cy="87.74" r="54.82"/>
+          <circle class="cls-216" cx="84.65" cy="87.74" r="54.67"/>
+          <circle class="cls-124" cx="84.65" cy="87.75" r="54.51"/>
+          <circle class="cls-87" cx="84.65" cy="87.76" r="54.36"/>
+          <circle class="cls-72" cx="84.65" cy="87.77" r="54.21"/>
+          <circle class="cls-162" cx="84.65" cy="87.77" r="54.06"/>
+          <circle class="cls-94" cx="84.65" cy="87.78" r="53.91"/>
+          <circle class="cls-113" cx="84.65" cy="87.79" r="53.76"/>
+          <circle class="cls-194" cx="84.65" cy="87.8" r="53.61"/>
+          <circle class="cls-53" cx="84.65" cy="87.8" r="53.45"/>
+          <circle class="cls-182" cx="84.65" cy="87.81" r="53.3"/>
+          <circle class="cls-77" cx="84.65" cy="87.82" r="53.15"/>
+          <circle class="cls-101" cx="84.65" cy="87.83" r="53"/>
+          <circle class="cls-161" cx="84.65" cy="87.83" r="52.85"/>
+          <circle class="cls-215" cx="84.65" cy="87.84" r="52.7"/>
+          <circle class="cls-181" cx="84.65" cy="87.85" r="52.54"/>
+          <circle class="cls-125" cx="84.65" cy="87.86" r="52.39"/>
+          <circle class="cls-33" cx="84.65" cy="87.86" r="52.24"/>
+          <circle class="cls-83" cx="84.65" cy="87.87" r="52.09"/>
+          <circle class="cls-151" cx="84.65" cy="87.88" r="51.94" transform="translate(-37.35 85.59) rotate(-45)"/>
+          <circle class="cls-106" cx="84.65" cy="87.89" r="51.79"/>
+          <circle class="cls-229" cx="84.65" cy="87.9" r="51.63"/>
+          <circle class="cls-105" cx="84.65" cy="87.9" r="51.48"/>
+          <circle class="cls-60" cx="84.65" cy="87.91" r="51.33"/>
+          <circle class="cls-2" cx="84.65" cy="87.92" r="51.18"/>
+          <circle class="cls-34" cx="84.65" cy="87.93" r="51.03"/>
+          <circle class="cls-143" cx="84.65" cy="87.93" r="50.88"/>
+          <circle class="cls-205" cx="84.65" cy="87.94" r="50.72" transform="translate(-37.39 85.61) rotate(-45)"/>
+          <circle class="cls-188" cx="84.65" cy="87.95" r="50.57"/>
+          <circle class="cls-112" cx="84.65" cy="87.96" r="50.42"/>
+          <circle class="cls-8" cx="84.65" cy="87.96" r="50.27"/>
+          <circle class="cls-47" cx="84.65" cy="87.97" r="50.12"/>
+          <circle class="cls-203" cx="84.65" cy="87.98" r="49.97"/>
+          <circle class="cls-103" cx="84.65" cy="87.99" r="49.81"/>
+          <circle class="cls-198" cx="84.65" cy="87.99" r="49.66" transform="translate(-37.43 85.63) rotate(-45)"/>
+          <circle class="cls-187" cx="84.65" cy="88" r="49.51" transform="translate(-37.43 85.63) rotate(-45)"/>
+          <circle class="cls-88" cx="84.65" cy="88.01" r="49.36"/>
+          <circle class="cls-1" cx="84.65" cy="88.02" r="49.21"/>
+          <circle class="cls-138" cx="84.65" cy="88.03" r="49.05"/>
+          <circle class="cls-16" cx="84.65" cy="88.03" r="48.9"/>
+          <circle class="cls-73" cx="84.65" cy="88.04" r="48.75"/>
+          <circle class="cls-18" cx="84.65" cy="88.05" r="48.6"/>
+          <circle class="cls-71" cx="84.65" cy="88.06" r="48.45" transform="translate(-37.47 85.64) rotate(-45)"/>
+          <circle class="cls-176" cx="84.65" cy="88.06" r="48.3"/>
+          <circle class="cls-84" cx="84.65" cy="88.07" r="48.14"/>
+          <circle class="cls-111" cx="84.65" cy="88.08" r="47.99"/>
+          <circle class="cls-19" cx="84.65" cy="88.09" r="47.84"/>
+        </g>
+        <circle class="cls-244" cx="84.65" cy="82.54" r="59.86"/>
+        <path class="cls-250" d="M84.65,116.64c-17.95,0-32.56-14.62-32.56-32.58,0-7.03,2.2-13.72,6.36-19.35,2.38-3.22,5.28-5.92,8.57-8.04,2.73-1.75,6.3.25,6.3,3.48h0c0,1.41-.71,2.7-1.88,3.46-6.85,4.45-11.15,12.18-11.15,20.44,0,13.43,10.92,24.35,24.35,24.35s24.33-10.92,24.33-24.35c0-8.27-4.29-16.01-11.13-20.44-1.17-.76-1.88-2.06-1.88-3.45h0c0-3.24,3.58-5.23,6.31-3.48,3.29,2.11,6.19,4.82,8.56,8.03,4.16,5.63,6.35,12.32,6.35,19.35,0,17.96-14.6,32.58-32.54,32.58h0ZM80.55,67.17v-18.26c0-2.27,1.84-4.11,4.11-4.11h0c2.27,0,4.11,1.84,4.11,4.11v18.26c0,2.27-1.84,4.11-4.11,4.11h0c-2.27,0-4.11-1.84-4.11-4.11Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
