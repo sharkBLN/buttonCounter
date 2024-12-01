@@ -1,45 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Custom Button with Your Design</title>
     <style>
-        /* Body Style für zentrierten Button */
         body {
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh; /* Füllt den gesamten Bildschirm */
+            height: 100vh;
             margin: 0;
-            padding: 0;
-            box-sizing: border-box;
             background-color: #f0f0f0;
             font-family: Arial, sans-serif;
-            overflow: hidden; /* Verhindert Scrollen */
         }
-
-        /* Button-Stil */
         button {
-            background: url('./1x/Artboard 1.png') no-repeat center center; /* Standardbild */
+            background: url('./1x/Artboard 1.png') no-repeat center center; /* Default image path */
             background-size: contain;
             border: none;
-            border-radius: 50%; /* Kreissymbol */
-            width: 170px;
+            border-radius: 50%; /* Keeps the circular shape */
+            width: 170px; /* Match the size of your design */
             height: 170px;
-            max-width: 90vw; /* Responsives Design: Skaliert auf kleinen Geräten */
-            max-height: 90vh; /* Responsives Design: Skaliert auf kleinen Geräten */
             cursor: pointer;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
         }
-
-        /* Animation beim Klicken */
         button:active {
             transform: scale(0.95);
             box-shadow: none;
         }
 
-        /* Retina-Unterstützung */
         @media (min-device-pixel-ratio: 2), (-webkit-min-device-pixel-ratio: 2) {
             button {
                 background: url('./2x/Artboard 1@2x.png') no-repeat center center;
@@ -54,28 +41,26 @@
     </style>
 </head>
 <body>
-    <!-- Der Button -->
     <button id="hiddenCounter"></button>
-
     <script>
         let count = 0;
 
-        // Lade gespeicherte Klickanzahl aus localStorage
+        // Load stored count from local storage (if available)
         if (localStorage.getItem("hiddenCount")) {
             count = parseInt(localStorage.getItem("hiddenCount"));
         }
 
-        // Button-Klicks zählen
+        // Track button clicks without displaying anything
         const button = document.getElementById("hiddenCounter");
         button.addEventListener("click", () => {
             count += 1;
             localStorage.setItem("hiddenCount", count);
 
-            // Optional: In der Konsole debuggen
-            console.log(`Button gedrückt. Aktuelle Anzahl: ${count}`);
+            // Optional: Log to the console for debugging
+            console.log(`Button pressed. Current count: ${count}`);
         });
 
-        // Zähler täglich um Mitternacht zurücksetzen
+        // Reset count daily at midnight
         const now = new Date();
         const millisUntilMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 0) - now;
         setTimeout(() => {
